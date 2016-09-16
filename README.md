@@ -1,2 +1,2 @@
 # MaskViewDemo
-Create image masking 
+One of the easiest way to achieve masking. Create image masking 
